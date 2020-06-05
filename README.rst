@@ -1,7 +1,13 @@
-BPMF
-====
+BPMF :: The EPEEC Edition
+=========================
 
-|Travis Build Status| 
+This is a fork of BPMF with devlopments done in the EPEEC project.
+EPEEC features include:
+ - compression of data in memory, to reduce communication needs
+
+
+Intro
+-----
 
 Julia and C++ implementations of Bayesian Probabilistic Matrix Factorization
 using Markov Chain Monte Carlo. BPMF is a recommender method that allows to
